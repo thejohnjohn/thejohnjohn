@@ -1,6 +1,4 @@
-# **Hello, people**. Keep strong and **drink** ☕ 
-
-### Hi there 👋
+# **Hello, people** 👋. Keep strong and **drink** ☕ 
 
 #### I'm a fullstack dev from Brazil. Please contact me!
 
