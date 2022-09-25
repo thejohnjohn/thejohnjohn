@@ -8,17 +8,27 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-### Techs
+## Techs
+
+### Frontend
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36"/>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="36" width="36">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" width="36">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="36" width="36">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" width="36" height="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="36" height="36"/>
+</p>
+
+### Backend
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="36" height="36"/
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36" height="36"/>
 </p>
 
 <p align="center">
