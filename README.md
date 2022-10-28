@@ -33,4 +33,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejohnjohn&layout=compact&theme=darcula&hide_border=true&bg_color=00000000" />
 </p>
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/thejohnjohn/count.svg)
