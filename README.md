@@ -1,4 +1,4 @@
-<style> 
+<!--style> 
 
 #subtitle {
     margin-top: 20px;
@@ -44,15 +44,16 @@
   height: 106px;
 }
 
-</style>
+</style -->
 
 <div align="center">
   <img src="./assets/logo.png" width="300" height="298"/>
 </div>
 
-<p id="subtitle">
+## Please contact me !
+<!--p id="subtitle">
     I'm a fullstack dev from Brazil. Please contact me!
-</p>
+</p-->
 
 <div id="contact">
 <a href="https://www.linkedin.com/in/joao-pedro-s-santos/">
